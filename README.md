@@ -8,7 +8,7 @@ Description
 This program converts a temperature from Celsius to Fahrenheit using a mathematical formula.
 
 Formula Used
-Fahrenheit = (0.9 / 0.5) × Celsius + 32
+Fahrenheit = (9 / 5) × Celsius + 32
 
 How It Works
 
@@ -19,8 +19,8 @@ Converts it into Fahrenheit
 Displays the result up to two decimal places
 
 Sample Output
-enter celsius value: 25
-77.00
+enter celsius value: 38
+100.40
 
 2. Gross Salary Calculator
 Description
@@ -41,11 +41,11 @@ Formula Used
 Gross Salary = Base Salary × (1 + (HRA + DA + TA) / 100)
 
 Sample Output
-enter your base salary: 20000
+enter your base salary: 100
 enter your hra: 10
 enter your da: 5
-enter your ta: 2
-23400.00
+enter your ta: 8
+123
 
 3. Third Angle of a Triangle
 Description
@@ -64,8 +64,8 @@ Calculates the third angle
 Displays the result
 
 Sample Output
-enter first angle: 60
-enter second angle: 50
+enter first angle: 65
+enter second angle: 45
 third angle is 70
 
 Requirements
